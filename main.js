@@ -16,7 +16,7 @@
   \******************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_reset_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style/reset.scss */ \"./style/reset.scss\");\n/* harmony import */ var _style_style_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./style/style.scss */ \"./style/style.scss\");\n/* harmony import */ var _style_button_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./style/button.scss */ \"./style/button.scss\");\n/* harmony import */ var _renders_renders_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./renders/renders.js */ \"./renders/renders.js\");\n/* harmony import */ var _renders_btns_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./renders/btns.js */ \"./renders/btns.js\");\n/* harmony import */ var _renders_events_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./renders/events.js */ \"./renders/events.js\");\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n(0,_renders_renders_js__WEBPACK_IMPORTED_MODULE_3__.renderTableHeader)();\r\n(0,_renders_renders_js__WEBPACK_IMPORTED_MODULE_3__.renderNew)();\r\n(0,_renders_btns_js__WEBPACK_IMPORTED_MODULE_4__.renderBtnNew)();\r\n(0,_renders_events_js__WEBPACK_IMPORTED_MODULE_5__.eventOpenList)();\n\n//# sourceURL=webpack://table-of-orders-fortiva/./index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_reset_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style/reset.scss */ \"./style/reset.scss\");\n/* harmony import */ var _style_style_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./style/style.scss */ \"./style/style.scss\");\n/* harmony import */ var _style_button_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./style/button.scss */ \"./style/button.scss\");\n/* harmony import */ var _renders_renders_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./renders/renders.js */ \"./renders/renders.js\");\n/* harmony import */ var _renders_btns_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./renders/btns.js */ \"./renders/btns.js\");\n/* harmony import */ var _renders_events_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./renders/events.js */ \"./renders/events.js\");\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nconst al = screen.orientation.type;\r\nalert(al)\r\n\r\n;(0,_renders_renders_js__WEBPACK_IMPORTED_MODULE_3__.renderTableHeader)();\r\n(0,_renders_renders_js__WEBPACK_IMPORTED_MODULE_3__.renderNew)();\r\n(0,_renders_btns_js__WEBPACK_IMPORTED_MODULE_4__.renderBtnNew)();\r\n(0,_renders_events_js__WEBPACK_IMPORTED_MODULE_5__.eventOpenList)();\n\n//# sourceURL=webpack://table-of-orders-fortiva/./index.js?");
 
 /***/ }),
 
@@ -325,7 +325,7 @@ eval("module.exports = JSON.parse('[{\"id\":\"1\",\"description\":\"Колика
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("eedb58183b4813683882")
+/******/ 		__webpack_require__.h = () => ("bc241684b7fff88b2667")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
