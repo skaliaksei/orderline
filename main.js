@@ -335,7 +335,7 @@ eval("module.exports = JSON.parse('[{\"id\":\"1\",\"description\":\"Колика
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("a4570043b1bd4ef9183f")
+/******/ 		__webpack_require__.h = () => ("ba7311e6bb7ba969260c")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
